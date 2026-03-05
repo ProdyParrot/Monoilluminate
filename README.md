@@ -1,2 +1,2 @@
 # Monoilluminate
-Simple game created for Bushiroad game jam (2019)
+This project was completed in 2019 during my time at DigiPen for a Bushiroad game jam. While the code reflects my early-career style, it demonstrates a style more geared towards rapid prototyping.
