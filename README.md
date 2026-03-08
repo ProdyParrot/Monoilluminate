@@ -27,8 +27,6 @@ The game received the **AppLovin Special Reward** (a side award outside of the t
 
 https://prodyparrot.wixsite.com/josephportfolio/monoilluminate
 
-*(Add 3–4 screenshots or a short GIF here)*
-
 ## How to Run
 1. Open the project in Unity 2018.3
 2. Load the scene 'Title.unity'
